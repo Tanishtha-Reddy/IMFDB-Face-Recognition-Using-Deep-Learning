@@ -86,4 +86,19 @@ The IMFDB dataset was provided by the evaluators.
    - Metric learning (teach the network to recognize face similarity) could add 10-15%
    - More data per celebrity would help a lot
   
+## Results:
+1.THe Training results are as follows:
+<br>
+<img width="566" height="234" alt="FRDL_training" src="https://github.com/user-attachments/assets/37972246-b390-490e-afd4-470bcdc92a06" />
+
+2.The Graph plotting the trend between training and validation loss:
+<img width="566" height="628" alt="FRDL_TrainValLoss" src="https://github.com/user-attachments/assets/1d9ad349-dacf-4be0-890a-e3da11c2e12c" />
+
+3.The Grapgh plotting the trend between trainging and validation accuracy:
+<img width="566" height="573" alt="FRDL_TrainValAccuracy" src="https://github.com/user-attachments/assets/7f8a648f-81bd-46db-a484-c404a3592f26" />
+
+## Author
+K. Sai Tanishtha Reddy
+
+  
    
